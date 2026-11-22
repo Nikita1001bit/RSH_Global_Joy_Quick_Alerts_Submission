@@ -1,0 +1,4 @@
+pandas>=2.0
+numpy
+streamlit>=1.40
+reportlab>=4.0

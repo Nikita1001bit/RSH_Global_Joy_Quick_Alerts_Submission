@@ -1,0 +1,6 @@
+type,platform,city,warehouse,start,end,status,weeks,total,last_week,runrate,team,impact,products,onset
+SUPPLY,Blinkit,Delhi NCR,BLK-WH-03,2026-11-09,2026-11-09,NEW,1,14537.246238546342,14537.246238546342,21601.85749530601,Supply team,21601.85749530601,Joy Night Repair Cream 50ml; Joy Almond Milk Lotion 400ml,
+KAM,Zepto,Mumbai,ZEP-WH-08,2026-11-02,2026-11-09,ONGOING,2,14343.717835086507,11708.512289492803,15153.651514902986,Zepto KAM,15153.651514902986,Joy Almond Milk Lotion 200ml,
+MARKETING,Zepto,Bengaluru,ZEP-WH-07,2026-10-12,2026-11-09,ONGOING,5,44095.961761727456,9453.49591202514,7464.5813644530535,Marketing,7464.5813644530535,Joy Neem Face Wash 100ml,2026-10-14
+SUPPLY,Blinkit,Bengaluru,BLK-WH-01,2026-09-21,2026-10-26,CLOSED,6,319798.9140663184,0.0,0.0,Supply team,0.0,Joy Neem Face Wash 100ml; Joy Neem Face Wash 50ml; Joy Papaya Face Wash 100ml; Joy Almond Milk Lotion 200ml; Joy Almond Milk Lotion 400ml; Joy Cocoa Butter Lotion 200ml,
+KAM,Instamart,Hyderabad,IM-WH-16,2026-09-14,2026-09-21,CLOSED,2,8690.887571399744,0.0,0.0,Instamart KAM,0.0,Joy Matte Sunscreen SPF50 50ml; Joy Sun Shield SPF50 50ml,
