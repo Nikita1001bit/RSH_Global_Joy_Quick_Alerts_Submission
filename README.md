@@ -6,7 +6,7 @@ Turns last week's sales, stock and purchase-order data into a short list of **wh
 
 ```bash
 python -m pip install -r requirements.txt
-python -m streamlit run dashboard.py
+python -m streamlit run app.py
 ```
 
 Open the local URL printed by Streamlit (usually `http://localhost:8501`). Choose a reporting Monday in the sidebar. The report and WhatsApp messages update automatically.
@@ -25,7 +25,8 @@ This creates `output/2026-11-16/report.html`, `whatsapp_messages.txt`, and `aler
 
 ## Files
 
-- `dashboard.py` — Streamlit weekly-report website
+- `app.py` — Streamlit entry point used locally and on Streamlit Community Cloud
+- `dashboard.py` — weekly-report interface and PDF generation
 - `joy_alerts/clean.py` — loading and data-quality checks
 - `joy_alerts/engine.py` — detectors, loss estimates, and backtesting
 - `joy_alerts/text.py` — alert wording and WhatsApp messages
