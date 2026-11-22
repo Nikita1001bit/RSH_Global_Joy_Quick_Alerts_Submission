@@ -23,6 +23,12 @@ This creates `output/2026-11-16/report.html`, `whatsapp_messages.txt`, and `aler
 
 `--asof` is the reporting Monday. The code only uses data from before that Monday, so older weeks can be replayed.
 
+## SUBMISSION 
+
+- Code & Run Instructions – Python source code, README with execution instructions, and hosted report link.
+- Monday_16Nov_Report – The tool-generated output for Monday, 16 November 2026.
+- Short_Note – Summary of alert selection, data cleaning decisions, and AI tools used and independently verified.
+
 ## Files
 
 - `app.py` — Streamlit entry point used locally and on Streamlit Community Cloud
